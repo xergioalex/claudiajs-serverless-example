@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "icecream-lambda-xergioalex-executor",
+    "name": "icecream-lambda-xergioalex",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "p37kygzp1i",
+    "module": "index"
+  }
+}

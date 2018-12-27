@@ -1,0 +1,24 @@
+{
+  "name": "claudiajs-serverless-example",
+  "version": "1.0.0",
+  "description": "Serverless example using claudiajs",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "claudia create --name icecream-lambda-xergioalex --region us-east-1 --api-module index --policies policy",
+    "update": "claudia update"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xergioalex/claudiajs-serverless-example.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xergioalex/claudiajs-serverless-example/issues"
+  },
+  "homepage": "https://github.com/xergioalex/claudiajs-serverless-example#readme",
+  "dependencies": {
+    "aws-sdk": "^2.382.0",
+    "claudia-api-builder": "^4.1.1"
+  }
+}
