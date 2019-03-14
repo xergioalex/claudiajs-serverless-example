@@ -6,7 +6,7 @@ Dummy serverless service using ClaudiaJs follow this guide: https://claudiajs.co
 
 Take a look my this another side projects:
 - [Basic serverless api](https://github.com/xergioalex/serverless-iot-api-example)
-- [Serverless twitter bot](https://github.com/xergioalex/serverless-iot-api-example)
+- [Serverless twitter bot](https://github.com/xergioalex/serverless-twitter-bot)
 
 Happy Path
 ---
