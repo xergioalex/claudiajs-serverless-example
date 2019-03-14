@@ -1,7 +1,12 @@
-# claudiajs-serverless-example
+# Claudiajs serverless example
+
 Dummy serverless service using ClaudiaJs follow this guide: https://claudiajs.com/tutorials/lambda-api-dynamo-db.html
 
+![Claudia logo](claudia-logo.png)
 
+Take a look my this another side projects:
+- [Basic serverless api](https://github.com/xergioalex/serverless-iot-api-example)
+- [Serverless twitter bot](https://github.com/xergioalex/serverless-iot-api-example)
 
 Happy Path
 ---
